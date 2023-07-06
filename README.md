@@ -33,3 +33,8 @@ Using numpy.linalg.eigh it is possible to retrieve the eigenvalues, sorted from 
 
 ## Projection 
 Finally, it is possible to apply the projection to a single point x or to a matrix of samples D using the retrieved eigenvectors.
+
+# Logistic Regression code
+# Support vector machines
+# Bayes risk, error evaluation, confusion matrices
+# Gaussian Mixture Models
